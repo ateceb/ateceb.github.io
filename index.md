@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Aslihan Tece Bayrak, Senior Lecturer
+Master's Degree with thesis in Computer Engineering
 
 You can use the [editor on GitHub](https://github.com/ateceb/ateceb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
