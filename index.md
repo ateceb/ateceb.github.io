@@ -7,10 +7,10 @@ Her role includes curriculum development, development of learning and assessment
 Before starting teaching at Media Design School in 2012, Tece worked as a software engineer in the defence industry.
 
 Education:  
->>* Phd Candidate in Computer Science, University of Auckland
+>* Phd Candidate in Computer Science, University of Auckland
 
->>* Master's Degree with thesis in Computer Engineering, Gebze Institute of Technology
+>* Master's Degree with thesis in Computer Engineering, Gebze Institute of Technology
 
->>* Bachelor's Degree in Computer Engineering, Istanbul Technical University
+>* Bachelor's Degree in Computer Engineering, Istanbul Technical University
 
 
