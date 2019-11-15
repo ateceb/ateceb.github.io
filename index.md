@@ -14,3 +14,12 @@ Education:
 >* Bachelor's Degree in Computer Engineering, Istanbul Technical University
 
 
+[Publication](./publications.html)    
+
+[Teaching](./teaching.html)
+
+[Events](./events.html)
+
+[Projects](./projects.html)
+
+[Students](./students.html)
